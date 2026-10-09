@@ -1,13 +1,13 @@
 # DOUDOCHAIN_V2 nest
 
-An installable [Nuthatch](https://github.com/nightswatchhq/nuthatch) nest for the DOUDOCHAIN_V2
+An installable [Nuthatch](https://github.com/nuthatch-org/nuthatch) nest for the DOUDOCHAIN_V2
 event surface on Arbitrum One. It is seeded from Graph deployment
 [`QmXf82bXak3752bwJ1x7SWchMiEP3Z4vWCWxUJ2HY3wdhj`](https://www.lodestar-dashboard.com/subgraphs/QmXf82bXak3752bwJ1x7SWchMiEP3Z4vWCWxUJ2HY3wdhj),
 the resolved deployment for the network ID
 `HS4oauJ4GSxNUroWB8bE85ER2GU4X5apckyaaGSkUYCK`.
 
 ```sh
-nuthatch init --from https://github.com/nightswatchhq/doudouchain-v2-nest
+nuthatch init --from https://github.com/nuthatch-org/doudouchain-v2-nest
 nuthatch dev --dir doudouchain-v2-nest --rpc https://your-arbitrum-archive-rpc
 ```
 
